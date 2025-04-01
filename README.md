@@ -23,7 +23,7 @@ Prerequisites
 **Start Application without Docker**
 ```
 npm install
-npm run start
+npm run dev
 ```
 The application will run on http://localhost:4002
 
